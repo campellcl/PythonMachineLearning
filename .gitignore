@@ -47,3 +47,7 @@ Temporary Items
 .apdisk
 
 # Directories containing image files not necessary to the skeleton code
+# None
+
+# IDE Specific Directories
+.idea
